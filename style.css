@@ -1,0 +1,67 @@
+h1{
+
+    margin-left: 30px;
+    }
+    
+    
+    .text{
+    
+    padding-left: 12px; 
+    height: 29px;
+    margin: 2px;
+    background-color: white; 
+    color: black ; 
+    margin-left: 35px;
+    margin-bottom: 20px;
+    }
+    
+    button{
+    color: white;
+    background-color:#3090C7			;
+    height: 35px;
+    margin: 2px;
+    border-radius: 4px;
+    border: none;
+    
+    }
+    
+    ul li{
+    
+    list-style-type: none;
+    font-style: inherit;
+    padding-bottom:8px; 
+    padding-left: 12px; 
+    border-bottom: 1px solid rgb(185, 195, 204) ;
+    margin-right: 200px;
+    cursor: pointer;
+    }
+    
+    
+    
+    li:hover {
+    color:green;
+    border-bottom:2px solid #6e6c6c;
+    
+    }
+    
+    a{
+        float:right;
+        display:none;
+    
+    }
+    
+    
+    li:hover a{
+        display: block;
+        text-decoration: none;
+    }
+    .done{
+    
+    color: green;
+    
+    }
+    .del{
+    
+    color: red;
+    }
+    
